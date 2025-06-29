@@ -93,3 +93,9 @@ def main():
 
 #RUN MAIN        
 main()
+st.markdown("""
+<hr style="margin-top: 50px;">
+<div style='text-align: center; color: gray; font-size: 14px;'>
+    © 2025 Aditya Borawake|<a href="https://github.com/V3NOM50/fake-review-detector" target="_blank">GitHub Repo</a>
+</div>
+""", unsafe_allow_html=True)
